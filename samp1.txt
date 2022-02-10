@@ -1,1 +1,2 @@
 this is sample samp2.txt
+learning to merge 
