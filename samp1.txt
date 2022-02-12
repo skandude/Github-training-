@@ -1,9 +1,12 @@
 this is sample 
 learning to merge
-<<<<<<< HEAD
+
 im so confused... something isnt working the way it should and i dont know what merge 
-=======
+
 im so confused... something isnt working the way it should and i dont know what
  
 this is comparing
->>>>>>> main
+
+im so confused... something isnt working the way it should and i dont know what
+ 
+this is comparing
