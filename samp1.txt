@@ -1,3 +1,3 @@
 this is sample samp2.txt
 learning to merge
-im so confused... something isnt working the way it should and i dont know what 
+im so confused... something isnt working the way it should and i dont know what merge 
