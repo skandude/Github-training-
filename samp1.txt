@@ -2,3 +2,4 @@ this is sample
 learning to merge
 im so confused... something isnt working the way it should and i dont know what
  
+this is comparing
